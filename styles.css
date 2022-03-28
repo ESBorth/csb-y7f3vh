@@ -1,0 +1,151 @@
+.home-header {
+  text-align: center;
+  margin-bottom: 0px;
+  color: #6f9580;
+  font-size: 5vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.home-sub {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: grey;
+}
+.menu-bar {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.menu-item {
+  margin: 3vw;
+  text-decoration: none;
+  color: grey;
+}
+.menu-item:hover {
+  color: #6f9580;
+  transition: all 200ms ease-in-out;
+}
+.home-info {
+  width: 40%;
+  margin-top: 3.5%;
+  margin-left: 2.5%;
+  display: inline-block;
+}
+.home-info-img {
+  width: 40%;
+  margin-top: 5%;
+  margin-left: 7.5%;
+  margin-right: 2.5%;
+  margin-bottom: 5%;
+  display: inline-block;
+}
+.home-page {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
+  margin-left: 4%;
+  margin-right: 4%;
+  border-radius: 30px;
+}
+.home-info2 {
+  width: 40%;
+  margin-top: 2%;
+  margin-left: 7.5%;
+  margin-right: 2.5%;
+  margin-bottom: 2.5%;
+  display: inline-block;
+}
+.home-info-img2 {
+  width: 40%;
+  margin-top: 5%;
+  margin-left: 2.5%;
+  margin-bottom: 5%;
+  display: inline-block;
+}
+h3 {
+  color: #6f9580;
+  font-size: 2vw;
+  margin-bottom: 0;
+}
+.your-chickens {
+  text-align: center;
+}
+.choose-chickens {
+  width: 60%;
+  margin: 0 auto;
+}
+.chicken-pets {
+  display: flex;
+  justify-content: center;
+}
+.breed-info-img {
+  display: inline-block;
+  margin: 2.5%;
+}
+.chicken-breed-img {
+  width: 25vw;
+}
+.sec-title {
+  text-align: center;
+}
+.sub-sec {
+  text-align: center;
+}
+p {
+  line-height: 1.5;
+}
+h5 {
+  font-size: 1.75vw;
+  margin-top: 0;
+}
+h6 {
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 0;
+}
+.breed-info {
+  width: 22vw;
+  margin-left: 6%;
+  margin-top: 1%;
+  text-align: left;
+}
+.info-button {
+  margin-left: 70%;
+  background-color: #6f9580;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+.info-button:hover {
+  color: #6f9580;
+  background-color: white;
+  border: 1px solid #6f9580;
+}
+.next-sec {
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 60%;
+}
+.alternates {
+  width: 60%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.return-button {
+  margin-left: 8%;
+  background-color: #6f9580;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+.return-button:hover {
+  color: #6f9580;
+  background-color: white;
+  border: 1px solid #6f9580;
+}
